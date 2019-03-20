@@ -3,6 +3,6 @@ image: Visual Studio 2015
 clone_folder: C:\projects\nifi-minifi-cpp
 
 build_script:
-   - cd C:\
+   - cd C:\projects\nifi-minifi-cpp
    - dir
    - mkdir build & exit 0
