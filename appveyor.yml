@@ -1,5 +1,6 @@
 image: Visual Studio 2015
 
 build_script:
-   - cd C:\projects\test
+   - cd C:\
+   - dir
    - mkdir build & exit 0
