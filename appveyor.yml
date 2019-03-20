@@ -1,8 +1,9 @@
 image: Visual Studio 2015
 
-clone_folder: C:\projects\nifi-minifi-cpp
+clone_folder: C:\projects\testapp
 
 build_script:
-   - cd C:\projects\nifi-minifi-cpp
+   - cd C:\projects\testapp
    - dir
    - mkdir build & exit 0
+   - cmake --version
