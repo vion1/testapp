@@ -1,5 +1,7 @@
 image: Visual Studio 2015
 
+clone_folder: C:\projects\nifi-minifi-cpp
+
 build_script:
    - cd C:\
    - dir
