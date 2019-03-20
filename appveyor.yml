@@ -1,0 +1,5 @@
+image: Visual Studio 2015
+
+build_script:
+   - cd C:\projects\test
+   - mkdir build & exit 0
